@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "dayjs": "^1.11.10"
+  },
+  "name": "clases---katya",
+  "version": "1.0.1",
+  "description": "Classes with Katya",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "class_1": "node ./Class_1/index.js",
+    "class_2": "node ./Class_2/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "class",
+    "node",
+    "backend"
+  ],
+  "author": "Nestor Recinos",
+  "license": "ISC"
+}
